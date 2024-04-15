@@ -1,0 +1,4 @@
+/wp-config.php
+/backup.sh
+/wp-content/cache/
+/dump.sql
